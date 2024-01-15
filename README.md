@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning c++
 - 🔭 I'm interested in backend
 
-[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaktus011&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaktus011&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   ### :hammer_and_wrench: Languages and Tools :
   <div>
