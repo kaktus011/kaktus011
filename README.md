@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning c++
+- 🔭 I'm interested in backend
 
   ### :hammer_and_wrench: Languages and Tools :
   <div>
