@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 🌱 I’m currently learning c++
 - 🔭 I'm interested in backend
 
