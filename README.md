@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning c++
 - 🔭 I'm interested in backend
 
+[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaktus011)](https://github.com/anuraghazra/github-readme-stats)
+
   ### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
