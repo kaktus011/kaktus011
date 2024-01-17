@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Qt
 - 🔭 I'm interested in backend
 
 [![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaktus011&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
