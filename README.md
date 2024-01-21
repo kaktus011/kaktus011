@@ -1,10 +1,11 @@
 <h3 align="center">Hi there 👋</h3>
-
+<!--
 <p align="center"><br>
   <samp>
     - 🔭 I’m currently working on cbzReader
   </samp>
 </p>
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaktus011&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
 
