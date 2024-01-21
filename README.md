@@ -1,7 +1,7 @@
 # Hi there 👋
 
+<p align="center">
 - 🔭 I’m currently working on cbzReader
-<details align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaktus011&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
 
   ### :hammer_and_wrench: Languages and Tools :
@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
-</details>
+</p>
 <!--
 **kaktus011/kaktus011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
