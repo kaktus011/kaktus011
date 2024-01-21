@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on cbzReader
 
-[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaktus011&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kevinjycui&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
 
   ### :hammer_and_wrench: Languages and Tools :
   <div>
