@@ -28,13 +28,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua" alt="lua" width="40" height="40"/>&nbsp;
   </div>
 </p>
+</p>
+
+<!--
 
 <h3 align="center"> 🔭 Currently learning</h3>
 <p align="center">
   ◯ Django ◯ Python3 ◯ JavaScript
-</p>
-
-<!--
 **kaktus011/kaktus011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
