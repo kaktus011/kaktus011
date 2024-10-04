@@ -1,18 +1,19 @@
-<h3 align="center">Hi there 👋</h3>
-<!--
-<p align="center"><br>
+<h3 align="left">Hi there, I'm Denis!👋</h3>
+
+<p align="left"><br>
   <samp>
-    - 🔭 I’m currently working on ...
+    A backend developer from Bulgaria passionate about learning new things everyday and imporiving my skills.
+    I love solving complex problems and teamwork
   </samp>
 </p>
--->
 
-<p align="center">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=kaktus011&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
-  -->
-  <h3 align="center"> :hammer_and_wrench: Languages and Tools</h3>
-  <div align="center">
+<p align="left">
+  
+  ![kaktus011's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaktus011&theme=nord&show_icons=true&hide_border=false&layout=compact)
+  
+  <br>
+  <h3 align="left"> :hammer_and_wrench: Languages and Tools</h3>
+  <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
