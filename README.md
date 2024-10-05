@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Denis!👋</h1>
 
 <p align="left"><br>
-    I am a backend developer from Bulgaria passionate about learning new things everyday and imporiving my skills. I love solving complex problems and teamwork.
+    I’m a backend developer from Bulgaria, passionate about learning new things every day and improving my skills. I love solving complex problems and thrive in team environments where collaboration is key to success. I’m always eager to take on new challenges and contribute to impactful projects.
 </p>
 
 <p align="left">
