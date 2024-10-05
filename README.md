@@ -1,12 +1,11 @@
 <h1 align="left">Hi there, I'm Denis!👋</h1>
 
-<h4 align="left"><br>
-  <samp>
+<p align="left"><br>
     I am a backend developer from Bulgaria passionate about learning new things everyday and imporiving my skills. I love solving complex problems and teamwork.
-  </samp>
-</h4>
+</p>
 
 <p align="left">
+  <p>🌱 I’m currently interested in and learning <b>Web Development</b>.</p>
   
   ![kaktus011's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaktus011&theme=nord&show_icons=true&hide_border=false&layout=compact)
   
